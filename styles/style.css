@@ -588,3 +588,6 @@ a {
         justify-content: center;
     }
 }
+body {
+    background-color: grey;
+}
